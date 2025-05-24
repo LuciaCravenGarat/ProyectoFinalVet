@@ -58,10 +58,11 @@
   "pets": [
     {
       "name": "Horco",
-      "specie": "felina",
-      "raza": "random",
+      "specie": "conejo",
+      "race": "lala",
       "url": "https://static.nationalgeographic.es/files/styles/image_3200/public/75552.ngsversion.1422285553360.jpg?w=1900&h=1267",
       "detail": "detalle ficha",
+      "raza": "random",
       "id": "039f"
     },
     {
@@ -75,9 +76,10 @@
     {
       "name": "Bonny Bom",
       "specie": "conejo",
-      "raza": "random",
+      "race": "lala",
       "url": "https://static.maskokotas.com/blog/wp-content/uploads/2020/12/hare-4375952_1920-1.jpg",
-      "detail": "adulto. Marrón, manchas blancas",
+      "detail": "adulto. Marrón, manchas blancas, ooooooooooooooooooooooooooooo",
+      "raza": "random",
       "id": "1e73"
     },
     {
@@ -128,6 +130,28 @@
       "pet": "Luna",
       "date": "15/8",
       "time": "16:30"
+    },
+    {
+      "id": "7a00",
+      "pet": "Pipo",
+      "owner": "Marcelo",
+      "date": "2025-05-25",
+      "time": "17:10",
+      "detail": "bla bla bla",
+      "vet": "",
+      "categoria": "clinica",
+      "status": "pending"
+    },
+    {
+      "id": "4386",
+      "pet": "Pipo",
+      "owner": "Marcelo",
+      "date": "2025-05-26",
+      "time": "17:01",
+      "detail": "fffffffffffffffffffffff",
+      "vet": "Vet 1",
+      "categoria": "clinica",
+      "status": "pending"
     }
   ]
 }
